@@ -4,6 +4,7 @@ import logo from "../assets/logo1.png";
 import cross from "../assets/cross.png";
 import linkedin from "../assets/linkedin.png";
 import github from "../assets/github.png";
+import search from "../assets/search.png"
 
 function Translator() {
   async function translate() {
@@ -78,8 +79,11 @@ function Translator() {
               <option value="id">Indonesian</option>
               <option value="am">Amharic</option>
             </select>
+            <img className="search" onClick={translate} src={search} alt="" />
             <div onClick={clearAll}>
+              
               <img className="cross" src={cross} alt="" />
+              
             </div>
           </div>
           <textarea
