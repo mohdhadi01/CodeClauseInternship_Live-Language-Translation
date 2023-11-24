@@ -1,3 +1,7 @@
+I developed a real-time language translator using React.js that automatically detects the input language and translates it to any chosen language, accessing Google Translate API through RapidAPI for data retrieval.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
