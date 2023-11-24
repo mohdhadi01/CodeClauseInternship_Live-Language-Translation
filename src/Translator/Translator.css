@@ -110,18 +110,14 @@ header {
   left: 520px;
   cursor: pointer;
 }
-.search{
+.search {
   height: 27px;
   width: 27px;
   position: relative;
-  top: -6px;
+  top: -3px;
   left: 507px;
   cursor: pointer;
 }
-
-
-
-
 
 @media (max-width: 1140px) {
   .credit {
@@ -133,12 +129,10 @@ header {
   .input1 {
     height: 200px;
     width: 300px;
-    font-size: medium;
   }
   .input2 {
     height: 200px;
     width: 300px;
-    font-size: medium;
   }
   .cross {
     position: relative;
@@ -159,12 +153,12 @@ header {
   .input1 {
     height: 180px;
     width: 250px;
-    font-size: small;
+    font-size: medium;
   }
   .input2 {
     height: 180px;
     width: 250px;
-    font-size: small;
+    font-size: medium;
   }
   .cross {
     position: relative;
@@ -206,7 +200,7 @@ header {
     width: 350px;
     padding: 20px;
     background-color: rgba(255, 255, 255, 0.169);
-    font-size: small;
+    font-size: medium;
     border-bottom-left-radius: 0px;
   }
   .input2 {
@@ -216,7 +210,7 @@ header {
     background-color: rgba(255, 255, 255, 0.169);
     border-bottom-right-radius: 25px;
     border-bottom-left-radius: 25px;
-    font-size: small;
+    font-size: medium;
   }
   .logo {
     position: absolute;
