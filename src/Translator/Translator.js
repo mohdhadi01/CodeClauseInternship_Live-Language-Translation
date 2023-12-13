@@ -14,7 +14,7 @@ function Translator() {
       method: "POST",
       headers: {
         "content-type": "application/x-www-form-urlencoded",
-        "X-RapidAPI-Key": "61de5f5c03msh868ae38980530d7p130d78jsn822283dfe31e",
+        "X-RapidAPI-Key": "2c3934fc12msh40e1d6b84793e8ap113370jsn9465f842c840",
         "X-RapidAPI-Host": "google-translate113.p.rapidapi.com",
       },
       body: new URLSearchParams({
